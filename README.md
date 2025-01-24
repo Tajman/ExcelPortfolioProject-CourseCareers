@@ -1,7 +1,7 @@
 # ExcelPortfolioProject-CourseCareers
 A MS Excel Project done during the coursework of the Data Analyst Track on Course Careers. 
 
-# Instrutctions and Questions
+# Instructions and Questions
 Assume that budget and gross amounts are in US dollars.
 
 Your workbook should answer the following questions:
